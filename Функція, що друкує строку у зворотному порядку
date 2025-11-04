@@ -1,0 +1,5 @@
+def reverse_string(s: str) -> None:
+    print(s[::-1])
+
+# Приклад:
+reverse_string("tiger")  # Виведе: regit
